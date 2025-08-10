@@ -8,19 +8,25 @@
 
 <!-- Гитхаб статистика -->
 <a href="https://github.com/kiwinatra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiwinatra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwinatra&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css,scss" />
+  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=radical&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=30,8A2BE2,000000&title_color=fff&icon_color=79ff97" width="500"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css,scss" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwinatra&layout=compact&theme=radical&hide_border=true&langs_count=4&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiwinatra&repo=kiwinatra&theme=radical&hide_border=true" />
+
+
+<img src="https://ghchart.rshah.org/sindresorhus" alt="kiwinatra's Github chart" />
 </a>
 
 <!-- Стрик активности -->
-<img src="https://streak-stats.demolab.com?user=kiwinatra&theme=radical&hide_border=true" alt="Стрик" />
+<img src="https://streak-stats.demolab.com?user=torvalds&theme=radical&hide_border=true" alt="Стрик" />
 
 <!-- Трофеи -->
 <a href="https://github.com/kiwinatra">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=natfriedman&theme=radical&no-frame=true&rank=-C,-B" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=radical&no-frame=true&rank=-C,-B" />
 </a>
 
 </div>
+
 
 ---
 
