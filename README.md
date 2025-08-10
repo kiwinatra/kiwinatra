@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiwinatra&repo=kiwinatra&theme=radical&hide_border=true" />
 
 
-<img src="https://ghchart.rshah.org/sindresorhus" alt="kiwinatra's Github chart" />
+<img src="https://ghchart.rshah.org/yyx990803" alt="kiwinatra's Github chart" />
 </a>
 
 <!-- Стрик активности -->
