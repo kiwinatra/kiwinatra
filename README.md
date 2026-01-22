@@ -4,7 +4,7 @@
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Привет, я kiwinatra 👋
 </h1>
-<h3>Full-stack разработчик | Люблю C++, kotlin | Открыта к коллабам ✨</h3>
+<h3>Full-stack разработчик | Люблю C++, kotlin</h3>
 
 <!-- Гитхаб статистика -->
 <a href="https://github.com/kiwinatra">
